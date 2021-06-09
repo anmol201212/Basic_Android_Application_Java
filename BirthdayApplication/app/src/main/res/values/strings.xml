@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Application</string>
+    <string name="name">nameoftheperson</string>
+    <string name="button">Button</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="imagebg">TODO</string>
+</resources>
